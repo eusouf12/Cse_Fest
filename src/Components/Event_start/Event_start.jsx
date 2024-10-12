@@ -35,9 +35,9 @@ const Event_start = () => {
 
 
     return (
-        <div className=' max-w-6xl mx-auto my-10 flex justify-center'>
-            <div className='flex flex-col items-center space-y-8'>
-                <h1 className='text-3xl md:text-2xl lg:text-5xl text-blue-900 font-medium md:font-semibold lg:font-bold'>Event Starts In:</h1>
+        <div className=' max-w-6xl mx-auto my-2 lg:my-8 flex justify-center'>
+            <div className='flex flex-col items-center space-y-3 lg:space-y-8'>
+                <h1 className='text-2xl md:text-3xl lg:text-5xl text-blue-900 font-semibold md:font-semibold lg:font-bold'>Event Starts In:</h1>
 
                 <div className="grid grid-flow-col gap-2 md:gap-4 lg:gap-10 text-center auto-cols-max">
                     <div className="flex flex-col p-2 lg:p-4 bg-gray-300 rounded-box text-black">
