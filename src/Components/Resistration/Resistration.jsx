@@ -394,7 +394,7 @@ const Resistration = () => {
                         <h2 className="text-2xl  text-blue-900 font-semibold md:font-semibold lg:font-bold ">Quiz <br></br> <span className="text-lg text-cyan-500">( Open For Only  Tejgaon College )</span></h2>
                         <div className="space-y-1">
                             <p className="text-sm font-normal lg:font-medium text-justify">
-                            he quiz segment of CSE FEST 2K24, organized by the Programming Club & Department of Computer Science & Engineering (CSE) at Tejgaon College, Dhaka, will challenge participants on a wide range of exciting and engaging technical and general knowledge topics.
+                            The quiz segment of CSE FEST 2K24, organized by the Programming Club & Department of Computer Science & Engineering (CSE) at Tejgaon College, Dhaka, will challenge participants on a wide range of exciting and engaging technical and general knowledge topics.
                             </p>
                             <h3 className="text-lg  text-rose-600 font-medium md:font-semibold lg:font-semibold">Registration Fees for Competition : </h3>
                             <p className="text-sm">250 BDT (PER PERSON)</p>

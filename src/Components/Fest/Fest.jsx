@@ -4,6 +4,7 @@ import Sponsor from '../Sponsor/Sponsor';
 import Event_start from '../Event_start/Event_start';
 import About from '../About/About';
 import Resistration from '../Resistration/Resistration';
+import Participent from '../Particepent/Participent';
 
 
 const Fest = () => {
@@ -13,6 +14,7 @@ const Fest = () => {
         <div className='bg-base-300'>
             <div className='max-w-7xl mx-auto '>
                 <Banner></Banner>
+                <Participent></Participent>
                 <Event_start></Event_start>
                 <About></About>
                 <Schedule></Schedule>
