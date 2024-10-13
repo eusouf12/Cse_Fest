@@ -33,16 +33,12 @@ const Day2 = () => {
                         </div>
                         <div className="flex items-center">
                             <RxDotFilled />
-                            <h3>Rubik's Cube</h3>
-                        </div>
-                        <div className="flex items-center">
-                            <RxDotFilled />
                             <h3>Fifa</h3>
                         </div>
                         <div className="flex items-start ">
                             <div className="pt-1"><RxDotFilled /></div>
                             <div>
-                                <h3>Bucket, Dart & Many More Exciting Games</h3>
+                                <h3>Rubik's Cube,Bucket, Dart & Many More Exciting Games</h3>
                                 <h4 className="text-sm md:text-base">(Open For Everyone)</h4>
                             </div>
                         </div>
